@@ -19,4 +19,4 @@
 
 #### Now, you can use this file by importing it in other files.
 
-##### For an instance, create a new.py file in your **Project Folder** and try writing this on the top:- _from list import Singly_linked_list_ and now you can use all the methods defined in the list.py file without actually writing it out whole.
+##### For an instance, create a new.py file in your **Project Folder** and try writing this on the top:- _from list import Singly_linked_list_ and now you can use all the methods defined in the list.py file without actually writing it out whole. You can go to problems folder in this repo to take reference on how to use this efficiently from some of the questions I did.
